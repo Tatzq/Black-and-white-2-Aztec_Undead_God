@@ -1,0 +1,2 @@
+SET_LAND_NUMBER(1)
+LOAD_FEATURE_SCRIPT(".\data\landscape\BW2\land1.bwe")
