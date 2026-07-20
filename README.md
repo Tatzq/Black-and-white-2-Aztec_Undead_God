@@ -18,7 +18,7 @@ Shift+8 can be used to modify player colors（The functionalities provided by th
 
 快捷键：
 
-SHIFT+S 死亡奇迹
+SHIFT+S 死亡奇迹，获取后单击右键开启倾倒（还需要优化，等待下次更新。）
 
 SHIFT+D 衰变奇迹
 
